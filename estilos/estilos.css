@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    color: aqua;
+    font-size: medium;
+    font-family: cursive;
+}
+p{
+    text-shadow: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50;
+    color: blue;
+}
+
+div
+{
+    border-radius: 10;
+
+}
